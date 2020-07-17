@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image](https://media-exp1.licdn.com/dms/image/C5616AQHZGjnkruV7ew/profile-displaybackgroundimage-shrink_200_800/0?e=1600300800&v=beta&t=nKfjnCDFEuiGCCQZ35R6XRt7SWo2DPV5M3MtP1OHvnk)
+![image](https://user-images.githubusercontent.com/6765103/87796950-bd7a3e00-c852-11ea-9ee2-3d25dd63ff16.png)
 
 [![LinkedIn](https://user-images.githubusercontent.com/6765103/87794661-9c641e00-c84f-11ea-82f1-4e7d35081c81.png)](https://www.linkedin.com/in/cenk-canarslan-41a5163b/)
 [![Gmail](https://cdn2.iconfinder.com/data/icons/social-icons-color/512/gmail-64.png)](mailto:cenk.canarslan@gmail.com)
