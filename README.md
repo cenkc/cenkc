@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-![linkedin](https://media-exp1.licdn.com/dms/image/C5616AQHZGjnkruV7ew/profile-displaybackgroundimage-shrink_200_800/0?e=1600300800&v=beta&t=nKfjnCDFEuiGCCQZ35R6XRt7SWo2DPV5M3MtP1OHvnk)
+![image](https://media-exp1.licdn.com/dms/image/C5616AQHZGjnkruV7ew/profile-displaybackgroundimage-shrink_200_800/0?e=1600300800&v=beta&t=nKfjnCDFEuiGCCQZ35R6XRt7SWo2DPV5M3MtP1OHvnk)
 
-![https://www.linkedin.com/in/cenk-canarslan-41a5163b/](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-64.png)
-![https://twitter.com/cenkcanarslan](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-64.png)
-![mailto:cenk.canarslan@gmail.com](https://cdn2.iconfinder.com/data/icons/social-icons-color/512/gmail-64.png)
-![live:cenk.canarslan](https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/skype-64.png)
+[![LinkedIn](https://user-images.githubusercontent.com/6765103/87794661-9c641e00-c84f-11ea-82f1-4e7d35081c81.png)](https://www.linkedin.com/in/cenk-canarslan-41a5163b/)
+[![Gmail](https://cdn2.iconfinder.com/data/icons/social-icons-color/512/gmail-64.png)](mailto:cenk.canarslan@gmail.com)
+[![Skype](https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/skype-64.png)](https://join.skype.com/invite/aNoiQvM6p3Qr)
+[![Twitter](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-64.png)](https://twitter.com/cenkcanarslan)
 
 <!--
 **cenkc/cenkc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
