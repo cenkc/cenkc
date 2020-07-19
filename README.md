@@ -7,8 +7,9 @@
 [![Skype](https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/skype-64.png)](https://join.skype.com/invite/aNoiQvM6p3Qr)
 [![Twitter](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-64.png)](https://twitter.com/cenkcanarslan)
 
-[![HitCount](http://hits.dwyl.com/cenkc/cenkc.svg)](http://hits.dwyl.com/cenkc/cenkc)
+![ViewCount](https://views.whatilearened.today/views/github/cenkc/cenkc.svg)
 <!--
+[![HitCount](http://hits.dwyl.com/cenkc/cenkc.svg)](http://hits.dwyl.com/cenkc/cenkc)
 ![Twitter Follow](https://img.shields.io/twitter/follow/cenkcanarslan?label=Follow&style=social)
 **cenkc/cenkc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
